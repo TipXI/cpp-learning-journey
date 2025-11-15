@@ -1,0 +1,33 @@
+C++ Programming & Data Structures Notes
+
+This repository is a collection of my personal notes, exercises, and practice code from the textbook "C++ Programming: Program Design Including Data Structures" by D.S. Malik.
+
+It serves as my personal code sandbox for testing concepts and completing exercises as I work through the book. The code here represents my journey in learning and understanding the fundamentals of C++ and core data structures.
+
+Repository Structure
+
+The code is organized into folders based on the C++ concepts or data structures they cover:
+
+/array: Practice with static and dynamic arrays.
+
+/book_exercises: Solutions to various end-of-chapter exercises.
+
+/functions: Examples of C++ functions, parameters, and return types.
+
+/lab4, /lab5, /lab6: Course lab assignments.
+
+/oop: Code demonstrating Object-Oriented Programming principles (classes, inheritance, polymorphism).
+
+/oop/queue: Implementation of a Queue data structure.
+
+/oop/stacks: Implementation of a Stack data structure.
+
+/pointer: Exploring pointers, memory addresses, and dynamic memory.
+
+/recursion: Practice with recursive functions and logic.
+
+/repetition: Examples of for, while, and do-while loops.
+
+/tree: Implementation of tree structures (e.g., Binary Search Trees).
+
+This repository is for personal learning and reference. Code may be in various stages of completion or optimization.
